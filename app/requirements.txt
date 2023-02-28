@@ -1,0 +1,5 @@
+pytest
+requests
+pandas
+python-dotenv
+psycopg2
