@@ -2,7 +2,7 @@
 
 This repo contains the project files used in building a Data Engineering project using Containers and Infrastructure as a Code (IaC).
 
-The project's ojectives include:
+The project's objectives include:
 <ol>
 
   <li> Connecting to a novel data source. </li>
